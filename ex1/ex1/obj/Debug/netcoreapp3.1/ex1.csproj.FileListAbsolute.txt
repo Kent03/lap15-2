@@ -1,0 +1,28 @@
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.AssemblyReference.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.exe
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.deps.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.dev.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.genruntimeconfig.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.exe
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.deps.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.dev.json
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\bin\Debug\netcoreapp3.1\ex1.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.AssemblyReference.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.dll
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.pdb
+D:\HỌC VkU\Kỳ 2 22-23\c#\15-2\lap tieng anh\ex1\ex1\obj\Debug\netcoreapp3.1\ex1.genruntimeconfig.cache
